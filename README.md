@@ -1,1 +1,1 @@
-# mern_stack
+Basic javascript questions
